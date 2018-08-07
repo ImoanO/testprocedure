@@ -11,7 +11,7 @@
 * Pickled ginger
 * 1 bamboo sushi mat
 
-## To make the sushi rolls, complete the following steps:
+#### To make the sushi rolls, complete the following steps:
 
 1. Place the seaweed on a bamboo mat.
 2. Cover the sheet of seaweed with an even layer of prepared sushi rice.
