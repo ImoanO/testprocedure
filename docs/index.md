@@ -1,6 +1,5 @@
 # Making sushi rolls
 
-### Prerequisites
 #### Ingredients
 * 6 sheets nori sushi seaweed
 * 1 batch prepared sushi rice. You can find more information about preparing the rice in the [allrecipes](https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/) guide.
