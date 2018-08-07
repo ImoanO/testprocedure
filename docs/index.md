@@ -1,8 +1,21 @@
-# Making your bed
+# Making sushi rolls
 
-To make your bed, complete the following steps:
+####Prerequisites
+*6 sheets nori sushi seaweed
+*1 batch prepared sushi rice. See [here](https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/) for instructions on how to prepare the rice for this recipe.
+*220 grams of sushi-grade raw salmon, or other raw fish of your choice
+*1 avocado, sliced
+*Chopped carrots
+*Soy sauce
+*Wasabi
+*Pickled ginger
+*1 bamboo sushi mat
 
-1. Put the sheet onto the mattress.
-2. Put the duvet into the duvet cover.
-3. Put the pillows into the pillow cases.
-4. Assemble the duvet and pillows on the bed according to your requirements.
+To make the sushi, complete the following steps:
+
+1. Place the seaweed on a bamboo mat.
+2. Cover the sheet of seaweed with an even layer of prepared sushi rice.
+3. Smooth out the rice gently until it is flat.
+4. Layer salmon, carrots, and avocado on the rice.
+5. Roll the sushi tightly as shown in Figure 1. 
+6. Wet a sharp knife and slice the roll into 6 to 8 pieces.
