@@ -9,6 +9,7 @@
 * Soy sauce
 * Wasabi
 * Pickled ginger
+
 #### Equipment
 * 1 bamboo sushi mat
 * A sharp knife
