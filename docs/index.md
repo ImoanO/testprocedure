@@ -1,6 +1,7 @@
 # Making sushi rolls
 
 #### Ingredients
+##### To make the rolls
 * 6 sheets of nori sushi seaweed
 * 1 batch of prepared sushi rice. You can find more information about preparing the rice in the [allrecipes](https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/) guide.
 * 220 grams of sushi-grade raw salmon, or other raw fish of your choice
