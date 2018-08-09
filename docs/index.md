@@ -20,9 +20,8 @@
 2. Cover the sheet of seaweed with an even layer of prepared sushi rice.
 3. Flatten the rice gently until it is flat.
 4. Layer salmon, carrots, and avocado on the rice.
-5. Roll the sushi tightly. 
+5. Roll the sushi tightly as shown in Figure 1. 
 6. Wet a sharp knife and slice the roll into 6 to 8 pieces.
-
 <p align="center">
  <img src="Figure1.png" width="156" height="156" title="">
 </p>
