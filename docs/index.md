@@ -22,4 +22,7 @@
 4. Layer salmon, carrots, and avocado on the rice.
 5. Roll the sushi tightly. 
 6. Wet a sharp knife and slice the roll into 6 to 8 pieces.
-![](Figure1.png) width="100" height="100"
+
+<p align="center">
+ <img src="Figure1.png" width="156" height="156" title="">
+</p>
