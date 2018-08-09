@@ -25,6 +25,6 @@
 6. Wet a sharp knife and slice the roll into six to eight pieces.
 7. Serve with soy sauce, wasabi paste, and pickled ginger.
 <p align="center">
- <img src="Figure1.png" width="156" height="156" title="">
+ <img src="Figure1.png" width="186" height="186" title="">
 </p>
  
